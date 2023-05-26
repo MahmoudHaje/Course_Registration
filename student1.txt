@@ -1,0 +1,11 @@
+# this is a comment
+Student name: Ofer Tzur
+Student Id: 111111111
+specialization : NA   # Computer or Signal or Devices or NA
+Total Points: 12
+Mandatory Points: 10	
+Specialization Points: 0
+General Points: 2
+# Course	Credit     
+11002		5.0
+11004		5.0
